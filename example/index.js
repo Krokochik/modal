@@ -1,4 +1,4 @@
-import {createModal, bindModal} from "https://rawcdn.githack.com/Krokochik/modal/main/src/modal.js?min=1";
+import {createModal, bindModal} from "https://rawcdn.githack.com/Krokochik/modal/master/src/modal.js?min=1";
 
 for (let i = 0; i < 30; i++) {
     const card = document.createElement("div");
