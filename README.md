@@ -1,2 +1,5 @@
-# modal
-If images doesn't load try to enable vpn
+# Modal
+An universal js modal window.
+
+## Demo
+You can see demo [here](https://krokochik.github.io/modal/)
